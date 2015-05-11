@@ -1,1 +1,15 @@
+#container{
+	background-image: url('back.jpg');
+	width: 800px;
+	height: 1000px;
+	text-align: center;
+	margin: auto;
+	margin-top: -10px;
+	background-size: 800px 1000px
+}
 
+a {
+	position: relative;
+	left:230px;
+	top:539px;
+}
